@@ -28,5 +28,33 @@
     "legalLinks": [],
     "copyrightText": "<div style=\"text-align: left\">St. John's United Church of Christ & Westminster Presbyterian Church © 2024</div>\n\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "primaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "Company",
+        "links": [
+            {
+                "type": "Link",
+                "label": "About",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "altText": "",
+                "url": "/blog",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
+    }
 }
