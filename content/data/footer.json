@@ -80,7 +80,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:stjohnsuccjackson@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
